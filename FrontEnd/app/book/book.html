@@ -1,0 +1,40 @@
+<div>
+<h3><i>Books</i></h3>
+    <br>
+<div class="col-md-12">
+    <form class="form-inline">
+      <button type="button" class="btn btn-primary" ng-click="createBook()"><i class="fa fa-plus-circle" aria-hidden="true"></i> New</button>
+      <div class="form-group">
+        <input  type="text" class="form-control" style="margin-left: 20px;" ng-model="filtro"ng-enter="find()" />
+      </div>
+      <button class="btn btn-default" style="margin-left: 5px;"><i class="fa fa-search" ng-click="find ()"></i></button>
+    </form>
+    
+   
+</div>
+    <br>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th></th>
+            <th style="min-width: 80px;">Title</th>
+            <th style="min-width: 80px;">Description</th>
+            <th style="min-width: 80px;">Author</th>
+            <th style="width:20px;"> </th>
+            <th style="width:20px;"> </th>  
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="book in books">
+            <td><img src="{{ book.image }}" width="100px"/></td>
+            <td>{{ book.title }}</td>
+            <td>{{ book.description }}</td>
+            <td>{{ book.author.name }}</td>
+            <td><button type="button" ng-click="editBook(book.id)" class="btn btn-default"> <i class="fa fa-pencil-square-o" aria-hidden="true"></i> edit</button></td>
+            <td><button ng-click="delete(book.id)" class="btn btn-default"><i class="fa fa-trash-o" aria-hidden="true"></i> delete</a></td>
+            
+        </tr>
+        </tbody>
+    </table>
+    <!-- <a ng-click="createNewUser()" class="btn btn-small">create new book</a> -->
+</div>

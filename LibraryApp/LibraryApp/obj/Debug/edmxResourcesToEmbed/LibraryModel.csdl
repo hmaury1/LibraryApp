@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="libraryAppModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="author">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="nationality" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="books" Relationship="Self.FK_books_authors" FromRole="authors" ToRole="books" />
+  </EntityType>
+  <EntityType Name="book">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="author_id" Type="Int32" />
+    <Property Name="image" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="author" Relationship="Self.FK_books_authors" FromRole="books" ToRole="authors" />
+  </EntityType>
+  <Association Name="FK_books_authors">
+    <End Role="authors" Type="Self.author" Multiplicity="0..1" />
+    <End Role="books" Type="Self.book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="authors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="books">
+        <PropertyRef Name="author_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="libraryAppEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="authors" EntityType="Self.author" />
+    <EntitySet Name="books" EntityType="Self.book" />
+    <AssociationSet Name="FK_books_authors" Association="Self.FK_books_authors">
+      <End Role="authors" EntitySet="authors" />
+      <End Role="books" EntitySet="books" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

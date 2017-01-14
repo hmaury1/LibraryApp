@@ -1,0 +1,232 @@
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\ApplicationInsights.config
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\LibraryApp.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Antlr3.Runtime.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\EntityFramework.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\EntityFramework.SqlServer.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.Web.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Newtonsoft.Json.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Owin.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Net.Http.Formatting.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Cors.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Helpers.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.Cors.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.Owin.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.WebHost.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Mvc.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Optimization.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Razor.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.Razor.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\WebGrease.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.Web.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.Cors.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Newtonsoft.Json.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Net.Http.Formatting.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Helpers.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.WebHost.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Mvc.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Optimization.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Razor.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.WebPages.Razor.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Antlr3.Runtime.pdb
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\EntityFramework.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\EntityFramework.SqlServer.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\System.Web.Http.Owin.xml
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Helpers.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Http.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Mvc.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Optimization.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Razor.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\EntityFramework.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\bin\es\System.Web.Http.Owin.resources.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojResolveAssemblyReference.cache
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+c:\users\hpajaro\documents\visual studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\ApplicationInsights.config
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Antlr3.Runtime.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\EntityFramework.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.Web.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Newtonsoft.Json.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Owin.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Cors.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Helpers.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.Cors.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.Owin.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Mvc.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Optimization.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Razor.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\WebGrease.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.Web.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.Cors.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Newtonsoft.Json.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Helpers.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Mvc.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Optimization.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Razor.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Antlr3.Runtime.pdb
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\EntityFramework.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\System.Web.Http.Owin.xml
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Http.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\EntityFramework.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojResolveAssemblyReference.cache
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\hpajaro\Desktop\Library\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

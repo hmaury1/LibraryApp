@@ -1,0 +1,38 @@
+<div>
+<h3><i>Authors</i></h3>
+    <br>
+<div class="col-md-12">
+    <form class="form-inline">
+      <button type="button" class="btn btn-primary" ng-click="createAuthor()"><i class="fa fa-plus-circle" aria-hidden="true"></i> New</button>
+      <div class="form-group">
+        <input  type="text" class="form-control" style="margin-left: 20px;" ng-model="filtro"ng-enter="find()" />
+      </div>
+      <button class="btn btn-default" style="margin-left: 5px;"><i class="fa fa-search" ng-click="find ()"></i></button>
+    </form>
+    
+   
+</div>
+    <br>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th style="min-width: 80px;">Name</th>
+            <th style="min-width: 80px;">Nationality</th>
+            <th style="width:20px;">Books</th>
+            <th style="width:20px;"> </th>
+            <th style="width:20px;"> </th>  
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="author in authors">
+            <td>{{ author.name }}</td>
+            <td>{{ author.nationality }}</td>
+            <td> <i class="fa fa-book" aria-hidden="true"></i> {{ author.books.length }}</td>
+            <td><button type="button" ng-click="editAuthor(author.id)" class="btn btn-default"> <i class="fa fa-pencil-square-o" aria-hidden="true"></i> edit</button></td>
+            <td><button ng-click="delete(author.id)" class="btn btn-default"><i class="fa fa-trash-o" aria-hidden="true"></i> delete</a></td>
+            
+        </tr>
+        </tbody>
+    </table>
+    <!-- <a ng-click="createNewUser()" class="btn btn-small">create new author</a> -->
+</div>

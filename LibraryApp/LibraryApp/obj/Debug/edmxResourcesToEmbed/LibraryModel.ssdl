@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="libraryAppModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="authors">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="300" />
+    <Property Name="nationality" Type="varchar" MaxLength="300" />
+  </EntityType>
+  <EntityType Name="books">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="300" />
+    <Property Name="description" Type="text" />
+    <Property Name="author_id" Type="int" />
+    <Property Name="image" Type="text" />
+  </EntityType>
+  <Association Name="FK_books_authors">
+    <End Role="authors" Type="Self.authors" Multiplicity="0..1" />
+    <End Role="books" Type="Self.books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="authors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="books">
+        <PropertyRef Name="author_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="libraryAppModelStoreContainer">
+    <EntitySet Name="authors" EntityType="Self.authors" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="books" EntityType="Self.books" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_books_authors" Association="Self.FK_books_authors">
+      <End Role="authors" EntitySet="authors" />
+      <End Role="books" EntitySet="books" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

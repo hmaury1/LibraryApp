@@ -1,0 +1,16 @@
+<form>
+<h3><i>Author</i></h3>
+
+
+  <div class="form-group">
+    <label for="inputname">Name</label>
+    <input type="text" class="form-control" id="inputname" placeholder="" ng-model="author.name" /> 
+  </div>
+  <div class="form-group">
+    <label for="inputnationality">Nationality</label>
+    <input type="text" class="form-control" id="inputnationality" placeholder="" ng-model="author.nationality">
+  </div> 
+  
+  <input type="hidden" ng-model="author.id">
+  <button ng-click="save(author)" class="btn btn-success"><i class="fa fa-floppy-o"></i> Save</button>
+</form>
